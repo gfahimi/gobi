@@ -1,0 +1,12 @@
+hash: 5e2606cb8e648fd8f97b53c47fb17c3b310b6252e8f29ec43dd0374233f4cf5b
+updated: 2018-02-21T22:47:27.017738-08:00
+imports:
+- name: github.com/urfave/cli
+  version: 446f49e78f79a164079a99a88446182703331c75
+- name: gopkg.in/yaml.v2
+  version: d670f9405373e636a5a2765eea47fac0c9bc91a4
+testImports:
+- name: github.com/smartystreets/goconvey
+  version: 1d63d63e6242f48a079ecf39a3dd949b7e5d03d0
+  subpackages:
+  - convey
